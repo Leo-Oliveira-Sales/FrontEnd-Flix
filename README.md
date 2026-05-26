@@ -1,11 +1,11 @@
 
-## Run Locally
+## Run Local
 
-**Prerequisites:**  Node.js
+**Prerequisitos:**  Node.js
 
-**Abra o Projeto no seu VSCode e rode ao mesmo tempo que irá rodar o projeeto Flix API com Django Rest Framework**
+**Abra o Projeto no seu VSCode e rode ao mesmo tempo que irá rodar o projeto Flix API com Django Rest Framework**
 
-1. Install dependencies:
+1. Install dependencias:
    `npm install`
-2. Run the app:
+2. Run app:
    `npm run dev`
